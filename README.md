@@ -1,0 +1,1 @@
+I have developed an interactive navigation menu using HTML, CSS and JavaScript as a 1st task in web development internship. This navigation mrnu changes color or style when scrolled or when hovering over a menu item. The navigation menu should have a fixed position and be visible on all pages.
